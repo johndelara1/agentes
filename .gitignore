@@ -1,2 +1,11 @@
+__pycache__
+*.parquet
+.coverage
+htmlcov
+.pytest_cache
+.DS_Store
 .env
+env
+Dockerfile
+.dockerignore
 .agentops.log
