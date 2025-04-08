@@ -1,0 +1,24 @@
+Task: Find and summarize the latest AI breakthroughs from the last week.
+Output Summary: Find and summarize the latest AI breakthroughs from the last...
+Full Output: 1. **OpenAI Unveils Advanced Personalization for ChatGPT**  
+   OpenAI has rolled out new features for ChatGPT that allow users to customize their interaction experience. The addition of personalization settings enables users to set preferred tones and styles for responses, making interactions feel more tailored and engaging.
+
+2. **Google DeepMind Announces Significant Progress in AI Understanding of Protein Folding**  
+   Google DeepMind has reported breakthroughs in its AlphaFold technology, significantly enhancing predictions of protein structures. This advancement could lead to accelerated discoveries in drug development and a better understanding of various diseases.
+
+3. **Meta Introduces AI-Powered Virtual Experiences in Horizon Worlds**  
+   Meta has launched new AI tools within Horizon Worlds that allow creators to design virtual environments efficiently. With improved AI capabilities, users can generate immersive experiences and narratives more seamlessly in the metaverse, enhancing social interactions.
+
+4. **NVIDIA’s AI Toolkit Enhances Computer Graphics for Game Development**  
+   NVIDIA has unveiled an innovative AI toolkit that revolutionizes how computer graphics are created, particularly in video games. The technology leverages deep learning to produce hyper-realistic graphics and improve rendering speeds, promising a new standard for game development.
+
+5. **Microsoft Integrates AI into Office 365 for Enhanced Productivity**  
+   Microsoft has introduced AI features into its Office 365 suite, intelligently automating tasks such as email summarization and creating actionable items from meeting notes. This integration aims to streamline workflow and enhance productivity for users.
+
+6. **AI-Driven Climate Modeling Software Shows Promise in Predicting Extreme Weather**  
+   Researchers have developed an AI-based climate modeling software that more accurately predicts extreme weather events than traditional models. The technology uses vast datasets to identify patterns and assist in climate change mitigation strategies.
+
+7. **AI Art Generators Achieve Recognition in Contemporary Art Exhibitions**  
+   AI-generated artwork has been featured in prominent art exhibitions, sparking debate over creativity and authorship. Artists are increasingly collaborating with AI tools, challenging traditional definitions of art and bringing automated creation into the mainstream.
+
+Each of these breakthroughs reflects the rapidly evolving landscape of artificial intelligence, showcasing innovations that promise to impact various sectors such as healthcare, gaming, productivity, and climate science.
